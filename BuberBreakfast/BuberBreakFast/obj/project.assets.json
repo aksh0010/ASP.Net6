@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ErrorOr/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "BuberBreakFast.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BuberBreakFast.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberBreakFast.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ErrorOr/2.0.1": {
+      "sha512": "aje9lUVEAsusPFmaRcVM5EUqWBofd7hYtb9N8+ycgPYrtOzyFajMpzRgIO4uuiCllNLBc3x48+cpA+4v4koUDQ==",
+      "type": "package",
+      "path": "erroror/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "erroror.2.0.1.nupkg.sha512",
+        "erroror.nuspec",
+        "icon-square.png",
+        "lib/net6.0/ErrorOr.dll",
+        "lib/net6.0/ErrorOr.xml",
+        "lib/netstandard2.0/ErrorOr.dll",
+        "lib/netstandard2.0/ErrorOr.xml"
+      ]
+    },
+    "BuberBreakFast.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../BuberBreakFast.Contracts/BuberBreakFast.Contracts.csproj",
+      "msbuildProject": "../BuberBreakFast.Contracts/BuberBreakFast.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BuberBreakFast.Contracts >= 1.0.0",
+      "ErrorOr >= 2.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\akshr\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\akshr\\Desktop\\ASP.Net6\\BuberBreakfast\\BuberBreakFast\\BuberBreakFast.csproj",
+      "projectName": "BuberBreakFast",
+      "projectPath": "C:\\Users\\akshr\\Desktop\\ASP.Net6\\BuberBreakfast\\BuberBreakFast\\BuberBreakFast.csproj",
+      "packagesPath": "C:\\Users\\akshr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\akshr\\Desktop\\ASP.Net6\\BuberBreakfast\\BuberBreakFast\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\akshr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\akshr\\Desktop\\ASP.Net6\\BuberBreakfast\\BuberBreakFast.Contracts\\BuberBreakFast.Contracts.csproj": {
+              "projectPath": "C:\\Users\\akshr\\Desktop\\ASP.Net6\\BuberBreakfast\\BuberBreakFast.Contracts\\BuberBreakFast.Contracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "ErrorOr": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

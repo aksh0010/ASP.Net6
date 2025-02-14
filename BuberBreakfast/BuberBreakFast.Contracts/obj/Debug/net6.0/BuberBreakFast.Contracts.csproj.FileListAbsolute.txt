@@ -1,0 +1,12 @@
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.csproj.AssemblyReference.cache
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.AssemblyInfoInputs.cache
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.AssemblyInfo.cs
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.deps.json
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.dll
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.pdb
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.dll
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\refint\BuberBreakFast.Contracts.dll
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.pdb
+C:\Users\akshr\Desktop\ASP.Net6\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\ref\BuberBreakFast.Contracts.dll

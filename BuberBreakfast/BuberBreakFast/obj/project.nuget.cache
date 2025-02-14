@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1N4Zf00xRnp4tTp1c3gnPR2IU2ZGiVvWpFOtylMeHDyFOYF8lkRKQaCa0FTC4GpXr5YfCO/qKcpESQymF+QjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akshr\\Desktop\\ASP.Net6\\BuberBreakfast\\BuberBreakFast\\BuberBreakFast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akshr\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
